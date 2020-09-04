@@ -144,6 +144,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DaniloAngularProject"
+    }
+  },
+  "defaultProject": "DaniloAngularProject",
+  "cli": {
+    "analytics": false
+  }
 }
